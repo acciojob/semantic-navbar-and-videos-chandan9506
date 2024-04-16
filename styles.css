@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.heading{
+margin-left:220px;
+}
+.nav-section{
+	background-color:aqua;
+	display:flex;
+	justify-content:space-between;
+}
+.list{
+	list-style-type:none;
+}
+.video{
+	margin-left:80px;
+	height:300px
+}
