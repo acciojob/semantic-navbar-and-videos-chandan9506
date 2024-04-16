@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .heading{
-margin-left:220px;
+margin-left:180px;
 }
 .nav-section{
 	background-color:aqua;
@@ -12,6 +12,7 @@ margin-left:220px;
 	list-style-type:none;
 }
 .video{
-	margin-left:80px;
-	height:300px
+	margin-left:40px;
+	height:300px;
+	width:500px;
 }
